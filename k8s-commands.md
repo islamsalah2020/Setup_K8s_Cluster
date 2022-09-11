@@ -4,6 +4,7 @@
     kubectl apply -f mongo.yml
     kubectl apply -f mongo-configmap.yml
     kubectl apply -f mongo-express.yml
+    kubectl get all
 
 ### kubectl get commands
 
