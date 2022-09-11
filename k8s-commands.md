@@ -1,9 +1,9 @@
 ### kubectl apply commands in order
 
-    kubectl apply -f mongo-secret.yaml
-    kubectl apply -f mongo.yaml
-    kubectl apply -f mongo-configmap.yaml
-    kubectl apply -f mongo-express.yaml
+    kubectl apply -f mongo-secret.yml
+    kubectl apply -f mongo.yml
+    kubectl apply -f mongo-configmap.yml
+    kubectl apply -f mongo-express.yml
 
 ### kubectl get commands
 
